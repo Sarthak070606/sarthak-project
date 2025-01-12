@@ -7,5 +7,6 @@ int main()
     cout << " Enter the number " << endl;
     cin >> a >> b;
     cout << a + b;
+    cout << " Successfully change ";
     return 0;
 }
