@@ -10,6 +10,6 @@ int main()
     cout << a - b;
     cout << " Successfully change the update";
     cout << "End" << endl;
-    cout << "hii friendds " << endl;
+    cout << "hii friends " << endl;
     return 0;
 }
